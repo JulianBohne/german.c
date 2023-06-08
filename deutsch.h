@@ -5,7 +5,7 @@
 #define Buchstabe char
 #define Zeichenkette char*
 #define Zeichenkettenfeld char**
-#define Gebe return
+#define Gib return
 #define zurueck 
 #define Falls if(
 #define dann )

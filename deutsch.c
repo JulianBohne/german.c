@@ -8,7 +8,7 @@ Definiere eine Funktion mit dem Rueckgabetyp Ganzzahl und Namen Startfunktion we
 {
     Falls die Argumentanzahl weniger als 2 ist dann {
         Drucke den Fehler "Bitte uebergebe wie folgt eine Ganzzahl: programm <Ganzzahl>" aus;
-        Gebe 1 zurueck;
+        Gib 1 zurueck;
     }
     
     Deklariere eine Ganzzahl mit dem Namen Eingabezahl und setze diese auf den Rueckgabewert von Zeichenkette_zu_Ganzzahl(Argumentwerte[1]);
@@ -32,6 +32,6 @@ Definiere eine Funktion mit dem Rueckgabetyp Ganzzahl und Namen Startfunktion we
         }
     }
 
-    Gebe 0 zurueck;
+    Gib 0 zurueck;
 }
 
