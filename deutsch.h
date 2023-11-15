@@ -6,6 +6,9 @@
 #define Zeichenkette char*
 #define Zeichenkettenfeld char**
 #define Gib return
+#define Solange while
+#define Fuer for
+#define Tue do
 #define zurueck 
 #define Falls if(
 #define dann )
